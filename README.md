@@ -2,6 +2,8 @@
 
 Wolfram is a Haskell implementation of the Elementary Cellular Automaton, a mathematical model and computational system that exhibits complex and interesting behavior. This project allows you to explore different cellular automaton rulesets and visualize their evolution over generations.
 
+![Wolfram](https://content.wolfram.com/sw-publications/2020/07/making-wolfram-alpha-images-talkslides-10.jpg)
+
 ## How to Run
 
 Make sure you have [Stack](https://docs.haskellstack.org/en/stable/README/) installed, the Haskell build tool. You can build and run the program using the following commands:
